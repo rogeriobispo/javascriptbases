@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <style>
+    * {
+      padding: 0;
+      border: 0;
+      box-sizing: border-box;
+    }
+
+    #container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+      width: 100%;
+      height: 1000px;
+    }
+    
+    .btn {
+      width: 100px;
+      height: 100px;
+      background: red;
+      border-radius: 50%;
+      display: inline-block;
+      border: 3px solid black;
+      outline: none;
+    }
+
+    .btn:active {
+      border: 3px solid yellow;
+    }
+
+    .btn-container{
+      margin-top: 10px;
+    }
+  </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Closure Example</title>
+</head>
+<body>
+  <div id="container">
+    <h2>Closure Example</h2>
+    <div class="btn-container">
+      <button id="btn1" class="btn">Click</button>
+    </div>
+    <div class="btn-container">
+      <button id="btn2" class="btn">Click</button>
+    </div>
+  </div>
+  <script src="0006-DemystifyingJavaScriptClosure.js"></script>
+</body>
+</html>
