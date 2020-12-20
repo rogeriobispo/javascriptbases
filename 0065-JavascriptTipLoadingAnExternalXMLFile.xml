@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+   <NFe>
+      <infNFe Id="NFe35201136115273000129550010000011831163571823" versao="4.00">
+         <ide>
+            <cUF>35</cUF>
+            <cNF>16357182</cNF>
+            <natOp>DEV. MERC.</natOp>
+            <mod>55</mod>
+            <serie>1</serie>
+            <nNF>1183</nNF>
+            <dhEmi>2020-11-26T14:10:22-03:00</dhEmi>
+            <dhSaiEnt>2020-11-26T14:10:22-03:00</dhSaiEnt>
+            <tpNF>0</tpNF>
+            <idDest>1</idDest>
+            <cMunFG>3548807</cMunFG>
+            <tpImp>1</tpImp>
+            <tpEmis>1</tpEmis>
+            <cDV>3</cDV>
+            <tpAmb>2</tpAmb>
+            <finNFe>4</finNFe>
+            <indFinal>1</indFinal>
+            <indPres>2</indPres>
+            <procEmi>0</procEmi>
+            <verProc>4.00</verProc>
+            <NFref>
+               <refNFe>35201136115273000129550010000011471630834461</refNFe>
+            </NFref>
+         </ide>
+         <emit>
+            <CNPJ>36115273000129</CNPJ>
+            <xNome>RAPHAEL MARTINS VILLELA</xNome>
+            <xFant>Top Sports</xFant>
+            <enderEmit>
+               <xLgr>Rua do Rocio</xLgr>
+               <nro>199</nro>
+               <xCpl>CJ 101</xCpl>
+               <xBairro>Vila Olimpia</xBairro>
+               <cMun>3550308</cMun>
+               <xMun>Sao Paulo</xMun>
+               <UF>SP</UF>
+               <CEP>04552000</CEP>
+               <cPais>1058</cPais>
+               <xPais>Brasil</xPais>
+            </enderEmit>
+            <IE>128428292111</IE>
+            <IM>6508849-2</IM>
+            <CRT>1</CRT>
+         </emit>
+         <dest>
+            <CPF>64956474091</CPF>
+            <xNome>NF-E EMITIDA EM AMBIENTE DE HOMOLOGACAO - SEM VALOR FISCAL</xNome>
+            <enderDest>
+               <xLgr>Avenida boa nova</xLgr>
+               <nro>310</nro>
+               <xCpl>ap 99</xCpl>
+               <xBairro>Guarulhos</xBairro>
+               <cMun>3518800</cMun>
+               <xMun>Sao paulo</xMun>
+               <UF>SP</UF>
+               <CEP>07172020</CEP>
+               <cPais>1058</cPais>
+               <xPais>BR</xPais>
+            </enderDest>
+            <indIEDest>9</indIEDest>
+         </dest>
+         <det nItem="1">
+            <prod>
+               <cProd>87392YY9UD9</cProd>
+               <cEAN>7909408177501</cEAN>
+               <xProd>CAI7556 - ACESSORIOS PARA INFORMATICA</xProd>
+               <NCM>84222000</NCM>
+               <CFOP>1202</CFOP>
+               <uCom>PC</uCom>
+               <qCom>1.0000</qCom>
+               <vUnCom>75.9000000000</vUnCom>
+               <vProd>75.90</vProd>
+               <cEANTrib>7909408177501</cEANTrib>
+               <uTrib>PC</uTrib>
+               <qTrib>1.0000</qTrib>
+               <vUnTrib>75.9000000000</vUnTrib>
+               <indTot>1</indTot>
+            </prod>
+            <imposto>
+               <ICMS>
+                  <ICMSSN102>
+                     <orig>0</orig>
+                     <CSOSN>300</CSOSN>
+                  </ICMSSN102>
+               </ICMS>
+               <PIS>
+                  <PISOutr>
+                     <CST>49</CST>
+                     <vBC>75.90</vBC>
+                     <pPIS>1.6500</pPIS>
+                     <vPIS>1.25</vPIS>
+                  </PISOutr>
+               </PIS>
+               <COFINS>
+                  <COFINSOutr>
+                     <CST>49</CST>
+                     <vBC>75.90</vBC>
+                     <pCOFINS>7.6000</pCOFINS>
+                     <vCOFINS>5.77</vCOFINS>
+                  </COFINSOutr>
+               </COFINS>
+            </imposto>
+         </det>
+         <total>
+            <ICMSTot>
+               <vBC>0.00</vBC>
+               <vICMS>0.00</vICMS>
+               <vICMSDeson>0.00</vICMSDeson>
+               <vFCPUFDest>0.00</vFCPUFDest>
+               <vICMSUFDest>0.00</vICMSUFDest>
+               <vICMSUFRemet>0.00</vICMSUFRemet>
+               <vFCP>0.00</vFCP>
+               <vBCST>0.00</vBCST>
+               <vST>0.00</vST>
+               <vFCPST>0.00</vFCPST>
+               <vFCPSTRet>0.00</vFCPSTRet>
+               <vProd>75.90</vProd>
+               <vFrete>0.00</vFrete>
+               <vSeg>0.00</vSeg>
+               <vDesc>0.00</vDesc>
+               <vII>0.00</vII>
+               <vIPI>0.00</vIPI>
+               <vIPIDevol>0.00</vIPIDevol>
+               <vPIS>1.25</vPIS>
+               <vCOFINS>5.77</vCOFINS>
+               <vOutro>0.00</vOutro>
+               <vNF>75.90</vNF>
+            </ICMSTot>
+         </total>
+         <transp>
+            <modFrete>2</modFrete>
+            <transporta>
+               <CNPJ>62120089000187</CNPJ>
+               <xNome>FORNECEDOR NEW QA S/A</xNome>
+            </transporta>
+         </transp>
+         <pag>
+            <detPag>
+               <tPag>90</tPag>
+               <vPag>0.00</vPag>
+            </detPag>
+         </pag>
+         <infAdic>
+            <infAdFisco>.</infAdFisco>
+            <infCpl>Devolucao de mercadoria do pedido de venda cancelamento9</infCpl>
+         </infAdic>
+         <infRespTec>
+            <CNPJ>17799377000155</CNPJ>
+            <xContato>Edson Sampaio de Lima</xContato>
+            <email>gestao@contabilone.com</email>
+            <fone>2135205124</fone>
+            <idCSRT>35</idCSRT>
+            <hashCSRT>L+gLd/MHzNxNAmI9wbAzZjDCFKo=</hashCSRT>
+         </infRespTec>
+      </infNFe>
+      <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+         <SignedInfo>
+            <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+            <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+            <Reference URI="#NFe35201136115273000129550010000011831163571823">
+               <Transforms>
+                  <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+                  <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+               </Transforms>
+               <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+               <DigestValue>GmAynUKCFmLSYi4BkuTKFQnFsk8=</DigestValue>
+            </Reference>
+         </SignedInfo>
+         <SignatureValue>SGG2frJM+6y+uN2NuD3LLz6vap9Odztm+4spqV2zVGz+sclxV+iLPlQ0oab1arnOhOXn4D98ijxlqG2BDqvajgQDkdbtprkINiYHuN1qj/37wKZvp4sRfWmb/iKiMQ/Yx9GDpc4215YcdI4AQKX2ZDyDWNu43314ywz2cHtHvCbKq8OrjrX5/cbIR2JLkfAAayPgRnNGDQwV6RB7yjiSFSL75fnF4rtRLNRE+4u0xMGT9lktgVb/Tf9AZsmYwKkPBZVhaiPUp1Va+gD8ObDBypoLmfyM3SnvxcnIRHuMuCYS1uYoEOQwna9//+89cc9ehVR8nc1z+yc+j1pP6d/37w==</SignatureValue>
+         <KeyInfo>
+            <X509Data>
+               <X509Certificate>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</X509Certificate>
+            </X509Data>
+         </KeyInfo>
+      </Signature>
+   </NFe>
+   <protNFe versao="4.00">
+      <infProt>
+         <tpAmb>2</tpAmb>
+         <verAplic>SP_NFE_PL009_V4</verAplic>
+         <chNFe>35201136115273000129550010000011831163571823</chNFe>
+         <dhRecbto>2020-11-26T14:10:25-03:00</dhRecbto>
+         <nProt>135200009273198</nProt>
+         <digVal>GmAynUKCFmLSYi4BkuTKFQnFsk8=</digVal>
+         <cStat>100</cStat>
+         <xMotivo>Autorizado o uso da NF-e</xMotivo>
+      </infProt>
+   </protNFe>
+</nfeProc>
