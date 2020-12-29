@@ -1,0 +1,21 @@
+{
+  "name": "all-things-javascript-llc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "repository": "git@github.com:rogeriobispo/javascriptbases.git",
+  "author": "Rogério Bispo <rogerio.bispo@nexaas.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.16.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-prettier": "^7.1.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-prettier": "^3.3.0",
+    "prettier": "^2.2.1"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.1"
+  }
+}
