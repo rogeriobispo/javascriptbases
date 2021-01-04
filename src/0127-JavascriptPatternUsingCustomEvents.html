@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <script src="./0127-JavascriptPatternUsingCustomEvents.js"></script>
+  <script>
+    document.addEventListener("completeCourse", function(e) {
+      console.log(e.detail.user + ' finished the course')
+    });
+
+    document.addEventListener("completeCourse", function(e) {
+      console.log('The score was: '+ e.detail.score)
+    });
+    
+  </script>
+</body>
+</html>

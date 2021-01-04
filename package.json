@@ -2,7 +2,7 @@
   "name": "all-things-javascript-llc",
   "version": "1.0.0",
   "main": "index.js",
-  "type": "commonjs",
+  "type": "module",
   "repository": "git@github.com:rogeriobispo/javascriptbases.git",
   "author": "Rogério Bispo <rogerio.bispo@nexaas.com>",
   "license": "MIT",
@@ -15,6 +15,7 @@
     "prettier": "^2.2.1"
   },
   "dependencies": {
+    "big.js": "^6.0.3",
     "dotenv": "^8.2.0",
     "live-server": "^1.2.1",
     "node-fetch": "^2.6.1"
