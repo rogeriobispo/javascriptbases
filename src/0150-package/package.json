@@ -1,0 +1,11 @@
+{
+  "name": "StringCapitalize",
+  "version": "1.0.0",
+  "description": "Capitlizes first leter of string",
+  "main": "index.js",
+  "author": "Rogerio Bispo",
+  "license": "MIT",
+  "dependencies": {
+    "yargs": "^16.2.0"
+  }
+}
