@@ -11,7 +11,7 @@ let str3 = '98 meters of 100';
 console.log(parseInt(str3, 10)) //convert to string. ignore meter
 console.log(parseFloat(str3)) //convert to string. ignore meter
 
-let str4 = "I finished 68 of the 80 total";
+let str4 = "I finished 68.8 of the 80.8 total";
 
 let arr = str4.split(' ').filter(value => !isNaN(value)).map(value => Number(value))
 
